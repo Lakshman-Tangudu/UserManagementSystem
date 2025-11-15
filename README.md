@@ -1,4 +1,4 @@
-# Project: SimpleJavaApp
+# UserManagementSystem
 
 ## Description
 A small Java console application demonstrating:
@@ -29,3 +29,4 @@ SimpleJavaApp/
 ```bash
 javac -d out src/com/example/simpleapp/*.java src/com/example/simpleapp/model/*.java src/com/example/simpleapp/service/*.java
 java -cp out com.example.simpleapp.Main
+```
